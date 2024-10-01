@@ -1,7 +1,8 @@
 # Olá, me chamo Luis Felipe! 
 ## Bem-vindo ao meu perfil GitHub 👋
 
-
+### Estatísticas
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?luis0777=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Estatísticas
 <div>
