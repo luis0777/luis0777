@@ -26,13 +26,13 @@
 
 ### LINGUAGENS E FERRAMENTAS
 🛠️ <div>
-    <img src="https://img.icons8.com/fluency/48/000000/c-programming.png" alt="C" />
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
-    <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="API" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="48" height="48" />
-    <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" />
-    <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" />
-    <img src="https://img.icons8.com/color/48/000000/asp-net.png" alt="ASP.NET" />
+    <span style="color: #A8B9CC;">C</span> |
+    <span style="color: #178600;">C#</span> |
+    <span style="color: #5A9FD4;">API</span> |
+    <span style="color: #CC2927;">SQL Server</span> |
+    <span style="color: #00C4CC;">Canva</span> |
+    <span style="color: #5C2D91;">Visual Studio</span> |
+    <span style="color: #9400D3;">ASP.NET</span>
 </div>
 
 
