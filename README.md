@@ -8,3 +8,11 @@
         <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luis0777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Usuário"/>
     </a>
 </div>
+
+### CONHECIMENTOS BÁSICOS
+<div>
+    <img src="https://img.icons8.com/fluency/48/000000/c-programming.png" alt="C" />
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+    <img src="https://img.icons8.com/fluency/48/000000/sql-2.png" alt="SQL Server" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="API" />
+</div>
