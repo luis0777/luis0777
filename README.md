@@ -6,7 +6,7 @@ Eu me chamo Luis Felipe, tenho 21 anos e sou um entusiasta do mundo da programa�
 
 Tenho interesse em me aprimorar na linguagem C# e estou sempre buscando novos desafios e aprendizados na área de programação. Atualmente, estou envolvido em pequenos projetos que auxiliam nos meus estudos, mas também tenho interesse em contribuir com qualquer projeto open source.
 
-![GIF de Programação](https://media.giphy.com/media/3o6ZsY5YHuwU3ZxY8Y/giphy.gif) <!-- Você pode substituir o link por outro GIF ou imagem se preferir -->
+![Computador com Códigos](https://images.unsplash.com/photo-1561434501-6c9b9f7490a2) <!-- Link de uma imagem de programação. Você pode trocar por outro que preferir. -->
 
 ### Linguagens e Atividades
 <div>
