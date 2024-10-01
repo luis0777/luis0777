@@ -1,6 +1,8 @@
 # Olá, me chamo Luis Felipe! 
 ## Bem-vindo ao meu perfil GitHub 👋
 
+# ![snake gif](https://github.com/luis0777/luis0777/blob/output/github-contribution-grid-snake.gif)
+
 ---
 
 ### Sobre Mim
