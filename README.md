@@ -1,10 +1,7 @@
 # Olá, me chamo Luis Felipe! 
 ## Bem-vindo ao meu perfil GitHub 👋
 
-### Estou aprendendo
-<div>
-    <i class="devicon-threedsmax-plain"></i>
-</div>
+
 
 ### Estatísticas
 <div>
