@@ -30,21 +30,13 @@
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
     <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="API" />
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" alt="SQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="48" height="48" />
 </div>
 
 ---
 
 ### ESTOU APRENDENDO
 📚 <div>
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
-</div>
-
----
-
-### TECNOLOGIA
-⚙️ <div>
-    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" />
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
 </div>
 
