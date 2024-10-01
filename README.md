@@ -1,6 +1,11 @@
 # Olá, me chamo Luis Felipe! 
 ## Bem-vindo ao meu perfil GitHub 👋
 
+### Sobre Mim
+Eu me chamo Luis Felipe, tenho 21 anos e sou um entusiasta do mundo da programação e desenvolvedor de software. Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+
+Tenho interesse em me aprimorar na linguagem C# e estou sempre buscando novos desafios e aprendizados na área de programação.
+
 ### Linguagens e Atividades
 <div>
     <a href="https://github.com/luis0777">
@@ -20,12 +25,4 @@
 ### ESTOU APRENDENDO
 <div>
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
-</div>
-
-### TECNOLOGIAS
-<div>
-    <img src="https://img.icons8.com/ios-filled/50/000000/.net.png" alt=".NET" />
-    <img src="https://img.icons8.com/color/48/000000/sql-server.png" alt="SQL Server" />
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" />
 </div>
