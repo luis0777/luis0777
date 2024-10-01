@@ -30,6 +30,7 @@
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
     <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="API" />
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" alt="SQL" />
 </div>
 
 ---
@@ -41,7 +42,15 @@
 
 ---
 
+### TECNOLOGIA
+⚙️ <div>
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" />
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+</div>
+
+---
+
 ### Contato
-📫 Você pode me encontrar nas redes sociais: [LinkedIn](https://www.linkedin.com/in/luis-felipe-da-silva-amorim) 
+📫 Você pode me encontrar nas redes sociais: [LinkedIn](https://www.linkedin.com/in/luis-felipe-da-silva-amorim) | [Twitter](#)
 
 ---
