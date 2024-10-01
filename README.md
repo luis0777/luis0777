@@ -1,9 +1,6 @@
 # Olá, me chamo Luis Felipe! 
 ## Bem-vindo ao meu perfil GitHub 👋
 
-### Estatísticas
-[![Estatísticas do GitHub de Luis Felipe](https://github-readme-stats.vercel.app/api?username=luis0777)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Linguagens e Atividades
 <div>
     <a href="https://github.com/luis0777">
