@@ -13,7 +13,6 @@
 <div>
     <img src="https://img.icons8.com/fluency/48/000000/c-programming.png" alt="C" />
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="SQL Server" height="48" />
     <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="API" />
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
 </div>
