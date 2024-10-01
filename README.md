@@ -43,6 +43,6 @@
 ---
 
 ### Contato
-📫 Você pode me encontrar nas redes sociais: [LinkedIn](https://www.linkedin.com/in/luis-felipe-da-silva-amorim) | [Twitter](#)
+📫 Você pode me encontrar nas redes sociais: [LinkedIn](https://www.linkedin.com/in/luis-felipe-da-silva-amorim) 
 
 ---
