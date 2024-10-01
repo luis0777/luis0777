@@ -26,14 +26,13 @@
 
 ### LINGUAGENS E FERRAMENTAS
 🛠️ <div>
-    <img src="https://img.icons8.com/fluency/48/000000/c-programming.png" alt="C" />
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
-    <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="API" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="48" height="48" />
-    <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" />
-    <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" />
-    <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt="ASP.NET" />
-
+    ![](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![](https://img.shields.io/badge/API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)
+    ![](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+    ![](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+    ![](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+    ![](https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 </div>
 
 
