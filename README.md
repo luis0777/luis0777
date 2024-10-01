@@ -32,7 +32,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="48" height="48" />
     <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" />
     <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" />
-    <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="ASP.NET" />
+    <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt="ASP.NET" />
+
 </div>
 
 
