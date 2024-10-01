@@ -31,8 +31,9 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="API" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="48" height="48" />
     <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" />
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="Visual Studio" />
+    <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" />
 </div>
+
 
 ---
 
