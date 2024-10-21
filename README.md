@@ -31,6 +31,7 @@
 ![](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![](https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Windows_Forms-%233A8CDE.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
