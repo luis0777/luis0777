@@ -37,7 +37,8 @@
 
 ### ESTOU APRENDENDO
 📚  
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+
 
 ---
 
