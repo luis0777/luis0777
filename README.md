@@ -37,7 +37,8 @@
 
 ### ESTOU APRENDENDO
 📚  
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" /> Java
+<img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+
 
 
 ---
