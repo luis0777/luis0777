@@ -14,11 +14,15 @@
 
 ---
 
-### Linguagens e Atividades
-<a href="https://github.com/luis0777">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis0777&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luis0777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Usuário"/>
-</a>
+### ⚙️GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/luis0777">
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=luis0777&count_private=true&include_all_commits=true&rank_icon=github&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis0777&theme=tokyonight&layout=compact"/>
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/wakatime?username=luis0777"
+  </a>
+</div>
 
 ---
 
