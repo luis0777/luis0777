@@ -6,7 +6,7 @@
 ### Sobre Mim
 🎉 Eu me chamo Luis Felipe, tenho 21 anos e sou um entusiasta do mundo da programação e desenvolvedor de software. Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
-💻 Tenho interesse em me aprimorar na linguagem C# e estou sempre buscando novos desafios e aprendizados na área de programação. Atualmente, estou envolvido em pequenos projetos que auxiliam nos meus estudos, mas também tenho interesse em contribuir com qualquer projeto open source.
+💻 Tenho interesse em me aprimorar na parte de backend e estou sempre buscando novos desafios e aprendizados na área de programação. Atualmente, estou envolvido em pequenos projetos que auxiliam nos meus estudos, mas também tenho interesse em contribuir com qualquer projeto open source.
 
 <p align="center">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGczdDNlMXF1emJ2bTVicDg4cmI1cnpjMDRtM2EzcmJjcjBjcjUxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="50%" alt="GIF de Programação" />
